@@ -1,0 +1,252 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+#img1{
+	width: 300px;
+	height: 100px;
+	margin-left: 500px;
+	margin-bottom: 20px;
+
+
+}
+#header{
+	display: flex;
+	margin-left: 450px;
+	margin-bottom: 5px;
+
+}
+#header div{
+	margin-left: 30px;
+    font-size: x-small;
+	font-family: Courier New;
+}
+
+#n1:hover,#n2:hover,#n3:hover,#n4:hover,#n5:hover,#n6:hover{
+     
+     color:  #a64dff;
+}
+#img2{
+	width: 100%;
+}
+/*#secondBar{
+	background-image: url('Header.jpg');
+	background-size: 100% 100%;
+}*/
+#line1{
+	margin-left: 300px;
+	padding-top: 50px;
+	font-size: xxx-large;
+
+}
+	#line2{
+	margin-left: 300px;
+	margin-bottom: 30px;
+	margin-top: 0px;
+	font-size: x-large;
+}
+	#line3{
+	margin-left: 300px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-size: small;
+}
+#secondBar button{
+	margin-top: 20px;
+	margin-left: 300px;
+	margin-bottom: 55px;
+	padding: 5px;
+	border: none;
+	background-color: #a64dff;
+	color: white;
+}
+#heading1{
+	font-size: xx-large;
+}
+#thirdBar{
+	display: flex;
+	margin-left: 180px;
+
+}
+#thirdBar p{
+	font-size: small;
+}
+#thirdBar img{
+	width: 270px;
+	height: 150px;
+}
+#thirdBar div{
+
+	break-before: none;
+	margin: 20px;
+	
+}
+#thirdBar button{
+   border: none;
+   background-color: white;
+   color: #a64dff;
+}
+#fourthBar{
+	display: flex;
+	
+	background-color: #a64dff;
+
+}
+#fourthBar p{
+   font-size: small;
+}
+#fourthBar #d1{
+	margin: 20px;
+	margin-top: 30px;
+	color: white;
+	margin-left: 230px;
+}
+#fourthBar #d2{
+	margin: 20px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 90px;
+	background-color: white;
+	text-align: center;
+}
+#fourthBar #d3{
+	margin: 20px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: white;
+	text-align: center;
+}
+#fourthBar #d1 button{
+    padding: 7px 25px 7px 25px;
+    background-color: #b366ff;
+    color: white;
+    border: none;
+
+}
+#fourthBar #d2 button{
+	padding: 9px 45px 9px 45px;
+	background-color: #66a3ff;
+	color: white;
+	border: none;
+}
+#fourthBar #d3 button{
+	padding: 9px 45px 9px 45px;
+	background-color: #5cd65c;
+	color: white;
+	border: none;
+}
+#fifthBar{
+	background-image: url('FaceandBodyCare.jpg');
+	background-size: 100% 100%;
+	padding-top: 100px;
+	padding-bottom: 80px;
+
+}
+#fifthBar p{
+	margin-left: 230px;
+}
+#fifthBar button{
+  padding: 8px 15px 8px 15px;
+  border: none;
+  background-color: #a64dff;
+  color: white;
+  margin-left: 230px;
+  font-size: x-small;
+
+}
+#sixthBar{
+	background-color: #f0f5f5;
+	display: flex;
+}
+#sixthBar img{
+	margin-left: 200px;
+    width: 390px;
+    height: 214px;
+  
+}
+#sixthBar div{
+	  margin-top: 80px;
+	  margin-left: 30px;
+	  margin-bottom: 60px;
+}
+#sixthBar div #p1{
+	background-color: #5cd65c;
+	padding: 10px 100px 10px 15px;
+	color: white;
+	font-size: small;
+}
+#p2{
+	font-size: small;
+	padding: 20px 30px 10px 25px;
+	background-color: white;
+
+}
+#p3{
+	font-size: small;
+	margin-top: 10px;
+	padding: 10px 30px 10px 10px;
+	background-color: white;
+}
+#p4{
+	font-size: small;
+	margin-top: 10px;
+	padding: 10px 30px 10px 10px;
+	background-color: white;
+}
+#sevenBar{
+   display: flex;
+   background-color: #3A2B4B;
+}
+#sevenBar div p{
+    
+	color: white;
+	margin-left: 290px;
+	
+}
+#sevenBar div img{
+	margin-left: 50px;
+  width: 370px;
+  height: 180px;
+}
+#eighthBar{
+  background-color: #a64dff;
+  display: flex;
+}
+#eighthBar p{
+   color: white;
+   margin-top: 30px;
+   margin-left: 390px;
+}
+#eighthBar button{
+	margin: 25px;
+	background-color: #b366ff;
+	color: white;
+   font-size: xx-small;
+   padding: 7px 15px 7px 15px;
+   border: none;
+}
+#img1{
+	width: 300px;
+	height: 100px;
+	margin-left: 500px;
+	margin-bottom: 20px;
+
+
+}
+#final{
+	display: flex;
+	margin-left: 450px;
+	margin-bottom: 5px;
+
+}
+#final div{
+	margin-left: 30px;
+    font-size: small;
+	font-family: Courier New;
+}
+
+#n7:hover,#n8:hover,#n9:hover,#n10:hover,#n11:hover,#n12:hover{
+     
+     color:  #a64dff;
+}
